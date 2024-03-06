@@ -1,8 +1,8 @@
-- 👋 The name's Tony Potata.
-- 👀 I’m interested in virgin mary's and Tommy's mom.
-- 🌱 I’m currently living the spice of life and oh boy it's something else.
+- 👋 Hola, name's Tony Potata.
+- 👀 I’m interested in learning ways to hack.
+- 🌱 I’m currently living and oh boy it's something else.
 - 💞️ I’m looking to collaborate on anything because I love learning new things.
-- 📫 You can reach me on here if ya like.
+- 📫 Here's my linkedin profile if you want to connect .
 
 <!---
 Kilhefner/Kilhefner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
